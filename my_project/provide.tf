@@ -6,6 +6,6 @@ module "vpc" {
   source  = "alibaba/vpc/alicloud"
 
   create            = true
-  vpc_name          = "my-env-vpc
+  vpc_name          = "my-e
   // ...
 }
